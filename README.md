@@ -73,10 +73,10 @@ The model was evaluated using the following metrics:
 - **Validation Accuracy:** 96.36%
 
 ### **Confusion Matrix**
-![Confusion Matrix](Audio-Deepfake-Detection/images/output_confusion_metrics.png)
+![Confusion Matrix](images/output_confusion_metrics.png)
 
 ### **Classification Report**
-![Classification Report](Audio-Deepfake-Detection/images/Screenshot%202025-03-31%20220920.png)
+![Classification Report](images/Classification_report.png)
 
 ## 8. Challenges and Future Work
 ### 8.1 Challenges Faced:
